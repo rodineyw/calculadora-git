@@ -2,20 +2,3 @@ body {
     background: fixed;
     background-image:  linear-gradient(to bottom right,purple, pink);
 }
-
-h1 {
-    text-align: center;
-    text-shadow: 2px, 2px, 4px, gray;
-    color: white;
-}
-
-p {
-    text-align: center;
-    text-shadow: 2px, 2px, 4px, gray;
-    color: white;
-    text-size-adjust: 20px;
-}
-
-div {
-    box-shadow: 80px 50px lightskyblue;
-}
